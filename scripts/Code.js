@@ -41,6 +41,7 @@ function work (e) {
     }
     catch (err) {
       result.proxy.error = err;
+      result.responseCode = response.getResponseCode();
     }
 
   }
