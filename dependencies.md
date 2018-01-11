@@ -1,5 +1,5 @@
 # Google Apps Script Project: gasProxy
-This repo (gasProxy) was automatically updated on 03 November 2016 13:09:23 GMT by GasGit
+This repo (gasProxy) was automatically updated on 11 January 2018 18:07:45 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project gasProxy
